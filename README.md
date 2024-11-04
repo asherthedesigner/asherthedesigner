@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [www.webinventix.com](www.webinventix.com)
 
-- 💬 Ask me about **Brand Guides, UI/UX, CMS Development.**
+- 💬 Ask me about **Brand Guides, UI/UX, Web & App Development.**
 
 - 📫 How to reach me **asherthedesigner@gmail.com**
 
