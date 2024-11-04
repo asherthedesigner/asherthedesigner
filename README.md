@@ -5,8 +5,6 @@ I’m the craftsman behind brand stories that captivate, creating visuals that r
 From sleek, high-converting eCommerce stores to fully customized sites with advanced features, I deliver solutions that are visually stunning and optimized for performance, SEO, and scalability.
 - 📫 How to reach me?
 You can shoot me an email at asherthedesigner@gmail.com. I’m always open to discussing projects, collaborations, or just chatting about all things design and development!
-- ⚡ Fun fact:
-When I’m not crafting brands or building websites, I’m probably exploring new coffee spots or sketching up random ideas—sometimes both at the same time!
 <!---
 asherthedesigner/asherthedesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
